@@ -1,2 +1,3 @@
-print('Help')
-print('Test')
+print('Vanya')
+print('pomogi')
+print ('nam')
